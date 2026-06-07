@@ -71,3 +71,15 @@ fn main() {
 }
 ```
 
+`use std::io`
+
+- "use" is like "import"
+- std = standard library
+- io = input/output
+  - this library let you receive user's input, and do output
+
+`String::new()`
+
+- new() is String's associated function.
+- `String` is provided by Rust's `standard library`.
+- `mut` means `mutable`, which means that this variable can be edited later on.
