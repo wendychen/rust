@@ -48,5 +48,5 @@ fn main() {
 
 ### associated functions
 
-## external crates
+### external crates
 
