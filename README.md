@@ -32,3 +32,20 @@ Tom = Tom Preston-Werner
 fn main() {
   println!("Hello, world!");
 }
+
+## cargo run
+
+`cargo run` do compile + execute
+
+## Concepts
+
+### let
+
+### match
+
+### methods
+
+### associated functions
+
+## external crates
+
