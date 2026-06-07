@@ -1,3 +1,9 @@
+## Rust
+
+The official tutorial:
+[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+
+
 ## rustc v.s. cargo
 
 rustc -> manual compile
