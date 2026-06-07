@@ -28,10 +28,11 @@ Tom = Tom Preston-Werner
 
 ## Hello World
 
-```
+```rust
 fn main() {
   println!("Hello, world!");
 }
+```
 
 ## cargo run
 
