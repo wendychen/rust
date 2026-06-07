@@ -21,3 +21,8 @@ Tom = Tom Preston-Werner
 
 
 ## Hello World
+
+```
+fn main() {
+  println!("Hello, world!");
+}
